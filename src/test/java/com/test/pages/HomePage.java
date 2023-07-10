@@ -1,2 +1,4 @@
-package com.test.pages;public class HomePage {
+package com.test.pages;
+
+public class HomePage {
 }
